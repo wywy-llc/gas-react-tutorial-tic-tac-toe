@@ -19,8 +19,8 @@ https://beta.reactjs.org/learn/tutorial-tic-tac-toe
 - style.html
   - チュートリアルの`style.css`に対応する
 
-## ゲーム履歴
+## スプレッドシート連携
 
-ゲーム終了時、以下スプレッドシートに五目並べの結果が保存されます。
+ゲーム終了時、Googleスプレッドシートに五目並べの結果が保存されます。
 
 [結果スプレッドシートはこちら](https://docs.google.com/spreadsheets/d/1feULIHy01BTazYoGDpsElKSADrPyI1uwm1iK-i9EiAU/edit?usp=sharing)
