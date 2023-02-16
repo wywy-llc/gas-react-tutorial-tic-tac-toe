@@ -1,3 +1,5 @@
+<!-- <script type="text/babel"> -->
+
 <script type="text/babel">
   
 function Square({ value, onSquareClick }) {
@@ -26,6 +28,7 @@ function Board({ xIsNext, squares, onPlay }) {
   let status;
   if (winner) {
     status = 'Winner: ' + winner;
+    google.script.run.saveResult(xIsNext, squares);
   } else {
     status = 'Next player: ' + (xIsNext ? 'X' : 'O');
   }
