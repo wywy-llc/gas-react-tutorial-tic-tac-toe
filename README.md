@@ -1,6 +1,6 @@
 # ReactチュートリアルGAS版
 
-以下、チュートリアル: 三目並べの内容をGASのWebにしてみました。
+以下、チュートリアル: 三目並べの内容をGASのWebアプリにしてみました。
 
 https://beta.reactjs.org/learn/tutorial-tic-tac-toe
 
