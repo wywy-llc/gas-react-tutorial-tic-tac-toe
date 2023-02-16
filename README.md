@@ -22,4 +22,5 @@ https://beta.reactjs.org/learn/tutorial-tic-tac-toe
 ## ゲーム履歴
 
 ゲーム終了時、以下スプレッドシートに五目並べの結果が保存されます。
-[結果はこちら](https://docs.google.com/spreadsheets/d/1feULIHy01BTazYoGDpsElKSADrPyI1uwm1iK-i9EiAU/edit?usp=sharing)
+
+[結果スプレッドシートはこちら](https://docs.google.com/spreadsheets/d/1feULIHy01BTazYoGDpsElKSADrPyI1uwm1iK-i9EiAU/edit?usp=sharing)
