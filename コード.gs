@@ -16,12 +16,11 @@ function saveResult(xIsNext, squares) {
   const sheet = spreadsheet.getActiveSheet();
   const winner = xIsNext ? 'O' : 'X'
   let display = "";
-  Logger.log(squares)
   for (let i = 0; i < squares.length; i++) {
-    if(squares[i]){
-      display += squares[i] + '　';
-    } else{
-      display += '　';
+    if (squares[i]) {
+      display += squares[i] + ' ';
+    } else {
+      display += '　' + ' ';
     }
     if ([2, 5].includes(i)) {
       display.trim();
